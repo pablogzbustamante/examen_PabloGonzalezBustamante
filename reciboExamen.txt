@@ -1,0 +1,35 @@
+====== RECIBO DE COMPRA ======
+
+ID del Producto: 1
+Nombre del Producto: Notebook
+Precio del Producto: $900.00
+Tipo del Producto: Fisico
+Peso del Producto: 2.5 kg
+Costo del Envio del Producto: $25.00
+-------------------------------
+ID del Producto: 2
+Nombre del Producto: Software
+Precio del Producto: $200.00
+Tipo del Producto: Digital
+Tamaño del Producto: 150.0 MB
+Costo del Envio del Producto: $0.00
+-------------------------------
+ID del Producto: 3
+Nombre del Producto: Impresora
+Precio del Producto: $300.00
+Tipo del Producto: Fisico
+Peso del Producto: 7.0 kg
+Costo del Envio del Producto: $70.00
+-------------------------------
+ID del Producto: 4
+Nombre del Producto: Ebook
+Precio del Producto: $11.25
+Tipo del Producto: Digital
+Tamaño del Producto: 5.0 MB
+Costo del Envio del Producto: $0.00
+-------------------------------
+Compra final:
+
+Costo total de productos: $1411.25
+Costo total de envío: $95.00
+TOTAL A PAGAR: $1506.25
